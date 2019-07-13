@@ -380,5 +380,6 @@
     "New :resource": "新建 :resource",
     "Edit :resource": "编辑 :resource",
     "Update :resource": "更新 :resource",
-    "Choose :field": "选择 :field"
+    "Choose :field": "选择 :field",
+	"Download": "下载"
 }
