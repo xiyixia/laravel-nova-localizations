@@ -382,5 +382,9 @@
     "Update :resource": "更新 :resource",
     "Choose :field": "选择 :field",
 	"Download": "下载",
+	"Action": "操作",
+    "Changes": "更改内容",
+    "Original": "原始内容",
+    "This resource no longer exists": "此资源不存在",
 	":resource Details": ":resource 详情"
 }
